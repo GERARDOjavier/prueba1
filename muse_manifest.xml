@@ -1,0 +1,90 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="buhov1.com" resolutions="1x" timestamp="1556422577349">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_pie_p_gina.css" crc="193328397" ref="index:productos:servicios:contacto"/>
+    <file name="nomq_preview_master_pie_p_gina.css" crc="165381841" ref="index:productos:servicios:contacto"/>
+    <file name="index.css" crc="528639413" ref="index"/>
+    <file name="nomq_index.css" crc="4164156898" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="productos.css" crc="4258637362" ref="productos"/>
+    <file name="nomq_productos.css" crc="4082039974" ref="productos"/>
+    <file name="iefonts_productos.css" crc="3824530138" ref="productos"/>
+    <file name="servicios.css" crc="3858039282" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="3824652205" ref="servicios"/>
+    <file name="contacto.css" crc="4074335184" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="4286738628" ref="contacto"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:productos:servicios:contacto"/>
+    <file name="museutils.js" crc="163421577" ref="index:productos:servicios:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:productos:servicios:contacto"/>
+    <file name="museconfig.js" crc="168988563" ref="index:productos:servicios:contacto"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:productos:servicios:contacto"/>
+    <file name="webpro.js" crc="3848665353" ref="index:contacto"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:productos:servicios:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:productos:servicios:contacto"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:productos:servicios:contacto"/>
+    <file name="require.js" crc="244322403" ref="index:productos:servicios:contacto"/>
+    <file name="form_check.php" crc="158155501" ref="contacto"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
+    <file name="form_process.php" crc="4078697226" ref="contacto"/>
+    <file name="form-u19903.php" crc="4187141104" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="pie_página-favicon.ico" crc="3779101115" ref="index"/>
+    <file name="logotipo búho mini.png" crc="407257006" seo="true" ref="index:productos:servicios:contacto"/>
+    <file name="logotipo búho.jpg" crc="101280829" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:productos:servicios:contacto"/>
+    <file name="15590994_1254047307992429_2436260889692716759_o.jpg" crc="405950764" seo="true" ref="index"/>
+    <file name="18010486_1371714216225737_7481647921851145241_n.jpg" crc="4087321526" seo="true" ref="index"/>
+    <file name="20507460_1471944372869387_5980883262462118811_o.jpg" crc="445214401" seo="true" ref="index"/>
+    <file name="52596303_2122113321185819_7927710030059536384_n.jpg" crc="3782779323" seo="true" ref="index"/>
+    <file name="logotipo búho30x15.jpg" crc="3936549841" seo="true" ref="index"/>
+    <file name="15590994_1254047307992429_2436260889692716759_o30x19.jpg" crc="258825683" seo="true" ref="index"/>
+    <file name="18010486_1371714216225737_7481647921851145241_n30x17.jpg" crc="3973143996" seo="true" ref="index"/>
+    <file name="20507460_1471944372869387_5980883262462118811_o30x17.jpg" crc="4135742236" seo="true" ref="index"/>
+    <file name="52596303_2122113321185819_7927710030059536384_n30x23.jpg" crc="4256417031" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="3d-crop-u21265.jpg" crc="3827607963" ref="index"/>
+    <file name="020-3d-printer-3.png" crc="4086099153" seo="true" ref="index"/>
+    <file name="005-3d-printing-filament-2.png" crc="520499635" seo="true" ref="index"/>
+    <file name="herramientas-de-reparacion.png" crc="398629072" seo="true" ref="index"/>
+    <file name="tienda-online.png" crc="138895896" seo="true" ref="index"/>
+    <file name="037-3d-printing-3.png" crc="3783207545" seo="true" ref="index"/>
+    <file name="apoyo-tecnico.png" crc="406521680" seo="true" ref="index"/>
+    <file name="editor.png" crc="4238283130" seo="true" ref="index"/>
+    <file name="flat,1000x1000,075,f.jpg" crc="304913944" seo="true" ref="index"/>
+    <file name="ingenieria.png" crc="4046554065" seo="true" ref="index"/>
+    <file name="3d-crop-u212652.jpg" crc="117188262" ref="index"/>
+    <file name="3d-crop-u212653.jpg" crc="67668708" ref="index"/>
+    <file name="3d-crop-u212654.jpg" crc="3996719336" ref="index"/>
+    <file name="a_1.jpg" crc="304564000" seo="true" ref="productos"/>
+    <file name="v_5-crop-u15299.jpg" crc="4116048740" ref="productos"/>
+    <file name="v_5-crop-u152992.jpg" crc="4108240853" ref="productos"/>
+    <file name="a_1171x154.jpg" crc="3780666949" seo="true" ref="productos"/>
+    <file name="v_5-crop-u152993.jpg" crc="172499800" ref="productos"/>
+    <file name="a_1100x90.jpg" crc="47386467" seo="true" ref="productos"/>
+    <file name="v_5-crop-u152994.jpg" crc="4114685570" ref="productos"/>
+    <file name="15590994_1254047307992429_2436260889692716759_o-crop-u21589.jpg" crc="385565805" ref="servicios"/>
+    <file name="impresion-3d-industria-g.jpg" crc="229131124" seo="true" ref="servicios"/>
+    <file name="img_2143b_pzs68nhurr.jpg" crc="3876583360" seo="true" ref="servicios"/>
+    <file name="img_6984.jpg" crc="4077184416" seo="true" ref="servicios"/>
+    <file name="37132312_1824735710923583_6214703615865520128_n.jpg" crc="188369110" seo="true" ref="servicios"/>
+    <file name="15590994_1254047307992429_2436260889692716759_o-crop-u215892.jpg" crc="432718146" ref="servicios"/>
+    <file name="15590994_1254047307992429_2436260889692716759_o-crop-u215893.jpg" crc="83964198" ref="servicios"/>
+    <file name="img_2143b_pzs68nhurr174x131.jpg" crc="48012213" seo="true" ref="servicios"/>
+    <file name="img_6984196x131.jpg" crc="3766626212" seo="true" ref="servicios"/>
+    <file name="37132312_1824735710923583_6214703615865520128_n171x228.jpg" crc="4278673994" seo="true" ref="servicios"/>
+    <file name="15590994_1254047307992429_2436260889692716759_o-crop-u215894.jpg" crc="4004390983" ref="servicios"/>
+    <file name="img_2143b_pzs68nhurr101x76.jpg" crc="275015905" seo="true" ref="servicios"/>
+    <file name="img_6984114x76.jpg" crc="3786836945" seo="true" ref="servicios"/>
+    <file name="37132312_1824735710923583_6214703615865520128_n100x133.jpg" crc="449203405" seo="true" ref="servicios"/>
+  </folder>
+  <file name="index.html" crc="144102979" seo="true" mt="1556315741699" redirect="true"/>
+  <file name="productos.html" crc="4098306512" seo="true" mt="1556315741699" redirect="true"/>
+  <file name="servicios.html" crc="3849818497" seo="true" mt="1556315741699" redirect="true"/>
+  <file name="contacto.html" crc="198646808" seo="true" mt="1556315741699" redirect="true"/>
+</manifest>
